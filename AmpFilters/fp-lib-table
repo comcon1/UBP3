@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name k_switches)(type KiCad)(uri ${KIPRJMOD}/../kicad_libs_and_templates/kicad_5/pcbnew/k_switches.pretty)(options "")(descr ""))
+  (lib (name USSR_capacitors)(type KiCad)(uri ${KIPRJMOD}/../kicad_libs_and_templates/kicad_5/pcbnew/USSR_capacitors.pretty)(options "")(descr ""))
+  (lib (name k_plugs)(type KiCad)(uri ${KIPRJMOD}/../kicad_libs_and_templates/kicad_5/pcbnew/k_plugs.pretty)(options "")(descr ""))
+  (lib (name k_POTs)(type KiCad)(uri ${KIPRJMOD}/../kicad_libs_and_templates/kicad_5/pcbnew/k_POTs.pretty)(options "")(descr ""))
+  (lib (name local)(type KiCad)(uri ${KIPRJMOD}/../local.pretty)(options "")(descr ""))
+)

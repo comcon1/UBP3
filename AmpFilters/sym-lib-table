@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name k_switches)(type Legacy)(uri ${KIPRJMOD}/../kicad_libs_and_templates/kicad_5/eeschema/k_switches.lib)(options "")(descr ""))
+  (lib (name ampfilters-rescue)(type Legacy)(uri ${KIPRJMOD}/ampfilters-rescue.lib)(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name k_switches)(type KiCad)(uri ../kicad_libs_and_templates/kicad_5/pcbnew/k_switches.pretty)(options "")(descr ""))
+  (lib (name local)(type KiCad)(uri ${KIPRJMOD}/../local.pretty)(options "")(descr ""))
+)
