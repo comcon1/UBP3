@@ -34,6 +34,11 @@ Preamplified signal is then further amplified inside this board and undergo LowP
 
 Corresponding directory contains the complete KiCAD project including scheme and PCB.
 
+# Calibrator
+
+Calibrator gets 0/+5V input unipolar source and gives 30/300 Hz of 1/0.1 mV square pulse unipolar signal for feeding the amplifier.
+
+Corresponding directory contains the complete KiCAD project including scheme and PCB.
 
 # Arrangement
 

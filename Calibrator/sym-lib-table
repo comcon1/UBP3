@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name switches_k)(type Legacy)(uri ${KIPRJMOD}/../kicad_libs_and_templates/kicad_5/eeschema/temp/switches_k.lib)(options "")(descr ""))
+  (lib (name calibrator_1-rescue)(type Legacy)(uri ${KIPRJMOD}/calibrator_1-rescue.lib)(options "")(descr ""))
+)
