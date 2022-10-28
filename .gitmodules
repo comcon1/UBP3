@@ -1,0 +1,3 @@
+[submodule "kicad_libs_and_templates"]
+	path = kicad_libs_and_templates
+	url = https://github.com/kuzmin-ilya/kicad_libs_and_templates
