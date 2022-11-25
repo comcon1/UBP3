@@ -1,5 +1,10 @@
-# UBP3
-Universal Biopotential Amplifier
+# Universal Biopotential Amplifier - UBP3
+
+Wideband multichannel differential amplifier with modular design and adjustable analogous commutation.
+
+## Project video
+
+[![Video presentation of the project](https://img.youtube.com/vi/Itqa7mGAqyA/0.jpg)](https://www.youtube.com/watch?v=Itqa7mGAqyA)
 
 ## Technical characteristics
 
@@ -34,7 +39,7 @@ Preamplified signal is then further amplified inside this board and undergo LowP
 
 Corresponding directory contains the complete KiCAD project including scheme and PCB.
 
-# Calibrator
+## Calibrator
 
 Calibrator gets 0/+5V input unipolar source and gives 30/300 Hz of 1/0.1 mV square pulse unipolar signal for feeding the amplifier.
 
@@ -46,6 +51,15 @@ Boards are designed for further geometrical stacking as shown at the how-to-asse
 
 ![How boards are assemblied](https://github.com/comcon1/UBP3/raw/main/doc/arrangement.png)
 
+# History
+
+The prototype of this amplifier was firstly used by Ilya Kuzmin and colleagues for recording ECG of rats on a tredban:
+
+- Tarasova OS, Borzykh AA, Kuz'min IV, et al. [Dynamics of heart rate changes in rats following stepwise change of treadmill running speed]. Ross Fiziol Zh Im I M Sechenova. 2012; 98(11):1372-9.
+
+Now it is used by Georgy Nikolaev and his students for recording EEG in the research of audiogenic epilepsy on rat model:
+
+- Fedotova IB, Surina NM, Nikolaev GM, Revishchin AV, Poletaeva II. Rodent Brain Pathology, Audiogenic Epilepsy. Biomedicines. 2021; 9(11):1641. https://doi.org/10.3390/biomedicines9111641
 
 # Licensing 
 
